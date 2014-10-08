@@ -12,7 +12,7 @@ Amid Gabriel Ale    amidale@gmail.com, Santa Fe, Argentina
    2. Libre Distribución
    3. Libre Modificación 
 
-   Por otro lado fomenta el libre acceso a los conocimientos y la soberanía tecnológica
-   Esto no quiere decir que renuncie a mis derechos como autor, si vas a copiar parcial o totalmente el código solo     te pido que lo menciones
+   Por otro lado fomenta el libre acceso a los conocimientos y la soberanía tecnológica, esto no quiere decir que renuncie a mis derechos como autor.
+   Si vas a copiar parcial o totalmente el código solo     te pido que lo menciones
  
    Gracias Totales
